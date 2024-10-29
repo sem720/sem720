@@ -18,19 +18,19 @@
   🌍 Based in: 
   Munich, Germany <br> <br>
   
-  💼 Current Role: 
+  🌕 Current Role: 
   Apprentice / Junior Frontend Developer <br> <br>
   
-  💻 Favorite Tools: <br> <br>
+  ⭐ Favorite Tools: <br> <br>
   
-  🌱 Learning: 
+  🛸 Learning: 
   HTML, CSS, JavaScript, Bootstrap <br> <br>
   
   I enjoy working with modern frontend technologies to bring ideas to life and create seamless user experiences. Let’s build something great together! </p> <br>
   
   
   
-  📫 How to reach me
+  🚀 How to reach me
   
   **Email:** sem.schwab@gmx.de <br><br>
   **LinkedIn:** https://www.linkedin.com/in/sem-joshua-schwab-0bb193304/ <br><br>
