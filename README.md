@@ -22,10 +22,9 @@ I enjoy working with modern frontend technologies to bring ideas to life and cre
 
 ## 📫 How to reach me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-
+- **Email:** 
+- **LinkedIn:** 
+- **GitHub:** 
 ---
 
 Thank you for visiting! 😊
