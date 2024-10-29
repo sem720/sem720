@@ -2,10 +2,11 @@
 <h1 align="center">Hey! 👋 I am a passionate Frontend Developer</h1>
 
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/your-username/video.mp4" autoplay loop muted playsinline style="width:100%; border-radius: 10px;"></video>
+ ---![mario](https://github.com/user-attachments/assets/2259c6ab-20ff-4b07-b198-a6d3f238a1ec)
 </div>
 
----
+
+
 
 ## 👋 About Me
 
