@@ -21,8 +21,6 @@
   🌕 Current Role: 
   Apprentice / Junior Frontend Developer <br> <br>
   
-  ⭐ Favorite Tools: <br> <br>
-  
   🛸 Learning: 
   HTML, CSS, JavaScript, Bootstrap, Angular <br> <br>
   
